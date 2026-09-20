@@ -1,4 +1,4 @@
-# ADShare
+# ADShare for PlayStation Portable
 
 **ADShare** is a PSP homebrew application for direct file sharing between two PlayStation Portable systems using the console's native **Ad Hoc WLAN**.
 
