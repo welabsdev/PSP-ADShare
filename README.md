@@ -1,6 +1,6 @@
 # ADShare for PlayStation Portable
 
-> [!IMPORTANT]
+> [!WARNING]
 > This version of ADShare has been discontinued and is no longer actively maintained.
 An improved, modular, and completely rewritten version is now available as ADShare++. You can view and download it [here](https://github.com/welabsdev/PSP-ADShare).
 
