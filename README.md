@@ -382,22 +382,6 @@ Suggestions, bug reports, code improvements, and testing results are welcome.
 
 ---
 
-## Demo
-
-A demonstration video can be added here:
-
-```text
-YouTube / video link
-```
-
-Screenshots can also be added to the repository:
-
-```markdown
-![ADShare](screenshots/adshare-main.png)
-```
-
----
-
 ## Credits
 
 ### Development
