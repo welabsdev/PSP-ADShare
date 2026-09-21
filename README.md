@@ -2,7 +2,7 @@
 
 > [!WARNING]
 > This version of ADShare has been discontinued and is no longer actively maintained.
-An improved, modular, and completely rewritten version is now available as ADShare++. You can view and download it [here](https://github.com/welabsdev/PSP-ADShare).
+An improved, modular, and completely rewritten version is now available as ADShare++. You can view and download it [here](https://github.com/welabsdev/PSP-ADSharePP).
 
 **ADShare** is a PSP homebrew application for direct file sharing between two PlayStation Portable systems using the console's native **Ad Hoc WLAN**.
 
